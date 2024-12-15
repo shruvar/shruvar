@@ -1,4 +1,3 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 <h1 align="center">Hi, I'm Shruti Varshney</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
@@ -13,17 +12,6 @@
 </p>
 
 
-
-
-
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shruvar&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
-
-
-
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shruvar&" alt="ashutosh-pmishra" /></p>
